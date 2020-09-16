@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  code-server:
+  - apiVersion: v2
+    appVersion: 3.5.0
+    created: "2020-09-16T12:33:24.188623-07:00"
+    description: A Helm chart for cdr/code-server
+    digest: 48f27222d278098bbecf2820b32cbb868ba5ed783d7d620caf7b6ffcc7a25739
+    name: code-server
+    type: application
+    urls:
+    - https://cdr.github.io/helm-charts/code-server-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-09-16T12:33:24.18684-07:00"
