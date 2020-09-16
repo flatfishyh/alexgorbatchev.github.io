@@ -8,8 +8,9 @@ on a remote server, accessible through the browser.
 ## TL;DR;
 
 ```console
-$ git clone https://github.com/cdr/code-server.git
-$ helm install deployment/chart
+$ helm repo add cdr https://cdr.github.io/helm-charts/public/
+$ helm update
+$ helm install cdr/chart
 ```
 
 ## Introduction
