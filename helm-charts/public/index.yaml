@@ -3,12 +3,12 @@ entries:
   code-server:
   - apiVersion: v2
     appVersion: 3.5.0
-    created: "2020-09-16T12:33:24.188623-07:00"
+    created: "2020-09-16T12:37:06.367968-07:00"
     description: A Helm chart for cdr/code-server
-    digest: 48f27222d278098bbecf2820b32cbb868ba5ed783d7d620caf7b6ffcc7a25739
+    digest: 372a153f82fb799b1de8082a8b7b9ced46a3be500e5b7ddc987cb40a72bd45cb
     name: code-server
     type: application
     urls:
-    - https://cdr.github.io/helm-charts/code-server-1.0.0.tgz
+    - https://cdr.github.io/helm-charts/public/code-server-1.0.0.tgz
     version: 1.0.0
-generated: "2020-09-16T12:33:24.18684-07:00"
+generated: "2020-09-16T12:37:06.367203-07:00"
